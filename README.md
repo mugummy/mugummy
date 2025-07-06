@@ -9,11 +9,13 @@
   <!--Body-->
   
   ## 👀 About Me
+  <br/>
   #### 안녕하세요! 초보 개발자 mugummy입니다!<br/>
   #### 아직 실력이 많이 부족해도 조금씩 공부해서 발전하고있습니다!<br/>
   <br/>
   
   ## 🧱 Tech Stack
+  <br/>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--c-->
@@ -26,6 +28,7 @@
   <br/>
   
   ## 🤔 Github Stats
+  <br/>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugummy)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugummy)](https://github.com/anuraghazra/github-readme-stats)
