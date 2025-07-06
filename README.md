@@ -9,8 +9,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :mortar_board: I'm in Yeungnam University<br/>
-  #### :fire: I want to be a security expert<br/>
+  #### 안녕하세요! 초보 개발자 mugummy입니다!<br/>
+  #### 아직 실력이 많이 부족해도 조금씩 공부해서 발전하고있습니다!<br/>
   <br/>
   <br/>
   
