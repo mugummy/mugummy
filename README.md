@@ -19,11 +19,11 @@
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--c-->
-  <img src="https://img.shields.io/badge/c-#A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <!--html5-->
-  <img src="https://img.shields.io/badge/html5-#E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <!--kalilinux-->
-  <img src="https://img.shields.io/badge/kalilinux-#557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kalilinux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
   <br/>
   <br/>
   
